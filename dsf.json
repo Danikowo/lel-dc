@@ -85,4 +85,4 @@ const PRODUCTS = [
 		img: "6987580585.jpg",
 		price: 3100,
 	},
-];
+]
