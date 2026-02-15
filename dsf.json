@@ -1,88 +1,88 @@
 const PRODUCTS = [
 	{
-		id: 0,
-		name: "Микроволновая печь",
-		desc: "LG MS2042DB",
-		img: "lg_ms2042db_1.webp",
-		price: 300,
+		"id": 0,
+		"name": "Микроволновая печь",
+		"desc": "LG MS2042DB",
+		"img": "lg_ms2042db_1.webp",
+		"price": 300
 	},
 	{
-		id: 1,
-		name: "Монитор",
-		desc: "Samsung (Wisenet) SMT-2233",
-		img: "39204.450.jpg",
-		price: 730,
+		"id": 1,
+		"name": "Монитор",
+		"desc": "Samsung (Wisenet) SMT-2233",
+		"img": "39204.450.jpg",
+		"price": 730
 	},
 	{
-		id: 2,
-		name: "Беспроводные наущники",
-		desc: "Marshall Major V (черный)",
-		img: "20241029011025859_marshall-major-v_13.jpg",
-		price: 350,
+		"id": 2,
+		"name": "Беспроводные наущники",
+		"desc": "Marshall Major V (черный)",
+		"img": "20241029011025859_marshall-major-v_13.jpg",
+		"price": 350
 	},
 	{
-		id: 3,
-		name: "Мобильный телефон",
-		desc: "Samsung Galaxy A36 8/128GB",
-		img: "b97a5a1e79cea5e0051ec903841778c9-jpg_6-700x700.jpg",
-		price: 750,
+		"id": 3,
+		"name": "Мобильный телефон",
+		"desc": "Samsung Galaxy A36 8/128GB",
+		"img": "b97a5a1e79cea5e0051ec903841778c9-jpg_6-700x700.jpg",
+		"price": 750
 	},
 	{
-		id: 4,
-		name: "Игровая приставка XBOX",
-		desc: "Xbox Series X 1Tb",
-		img: "6987580585.jpg",
-		price: 3100,
+		"id": 4,
+		"name": "Игровая приставка XBOX",
+		"desc": "Xbox Series X 1Tb",
+		"img": "6987580585.jpg",
+		"price": 3100
 	},
 	{
-		id: 5,
-		name: "Стиральная машина",
-		desc: "LG WD-M0C7FD3S (single) 15 кг",
-		img: "8058ec7a5badd06fbf6fa7127df2bc0c.jpg",
-		price: 20800,
+		"id": 5,
+		"name": "Стиральная машина",
+		"desc": "LG WD-M0C7FD3S (single) 15 кг",
+		"img": "8058ec7a5badd06fbf6fa7127df2bc0c.jpg",
+		"price": 20800
 	},
 	{
-		id: 6,
-		name: "Беспроводные наушники",
-		desc: "Marshall Major V (черный)",
-		img: "20241029011025859_marshall-major-v_13.jpg",
-		price: 350,
+		"id": 6,
+		"name": "Беспроводные наушники",
+		"desc": "Marshall Major V (черный)",
+		"img": "20241029011025859_marshall-major-v_13.jpg",
+		"price": 350
 	},
 	{
-		id: 7,
-		name: "Микроволновая печь",
-		desc: "LG MS2042DB",
-		img: "lg_ms2042db_1.webp",
-		price: 300,
+		"id": 7,
+		"name": "Микроволновая печь",
+		"desc": "LG MS2042DB",
+		"img": "lg_ms2042db_1.webp",
+		"price": 300
 	},
 
 	{
-		id: 8,
-		name: "Монитор",
-		desc: "Samsung (Wisenet) SMT-2233",
-		img: "39204.450.jpg",
-		price: 730,
+		"id": 8,
+		"name": "Монитор",
+		"desc": "Samsung (Wisenet) SMT-2233",
+		"img": "39204.450.jpg",
+		"price": 730
 	},
 
 	{
-		id: 9,
-		name: "Мобильный телефон",
-		desc: "Samsung Galaxy A36 8/128GB",
-		img: "b97a5a1e79cea5e0051ec903841778c9-jpg_6-700x700.jpg",
-		price: 750,
+		"id": 9,
+		"name": "Мобильный телефон",
+		"desc": "Samsung Galaxy A36 8/128GB",
+		"img": "b97a5a1e79cea5e0051ec903841778c9-jpg_6-700x700.jpg",
+		"price": 750
 	},
 	{
-		id: 10,
-		name: "Стиральная машина",
-		desc: "LG WD-M0C7FD3S (single) 15 кг",
-		img: "8058ec7a5badd06fbf6fa7127df2bc0c.jpg",
-		price: 20800,
+		"id": 10,
+		"name": "Стиральная машина",
+		"desc": "LG WD-M0C7FD3S (single) 15 кг",
+		"img": "8058ec7a5badd06fbf6fa7127df2bc0c.jpg",
+		"price": 20800
 	},
 	{
-		id: 11,
-		name: "Игровая приставка XBOX",
-		desc: "Xbox Series X 1Tb",
-		img: "6987580585.jpg",
-		price: 3100,
-	},
-]
+		"id": 11,
+		"name": "Игровая приставка XBOX",
+		"desc": "Xbox Series X 1Tb",
+		"img': "6987580585.jpg",
+		"price": 3100
+	}
+];
